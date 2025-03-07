@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363561642963",
+    "project_id": "absensi-f1abc",
+    "storage_bucket": "absensi-f1abc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363561642963:android:c7f31ad0183b3bbb4b5d26",
+        "android_client_info": {
+          "package_name": "com.example.attandence_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf0nUQI34KBhm3GcqF7EfNtkhrhUCfRng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
